@@ -2,7 +2,7 @@
 	 * @return int
 	 */
 	public int add(int i, int j, int k){
-
+   print ("we have deleted unused api from the application")
 	}
 	public int multiply(int i, int j, int k){
 		return i-j-k;
